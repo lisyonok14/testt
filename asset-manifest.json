@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lisyonok14/testt.git/static/css/main.c7ec3132.css",
+    "main.js": "/lisyonok14/testt.git/static/js/main.17b28ede.js",
+    "index.html": "/lisyonok14/testt.git/index.html",
+    "main.c7ec3132.css.map": "/lisyonok14/testt.git/static/css/main.c7ec3132.css.map",
+    "main.17b28ede.js.map": "/lisyonok14/testt.git/static/js/main.17b28ede.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.17b28ede.js"
+  ]
+}
